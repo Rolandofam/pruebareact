@@ -1,7 +1,7 @@
 function Saludo() {
     return ( 
         <>
-            <h1> Hola soy Rolando Aruquipa</h1>
+            <h1> Hola soy Rolando Aruquipa Mamani</h1>
         </>
      );
 }
